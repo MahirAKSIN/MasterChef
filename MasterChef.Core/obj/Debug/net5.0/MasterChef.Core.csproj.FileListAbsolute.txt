@@ -1,0 +1,12 @@
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\MasterChef.Core\bin\Debug\net5.0\MasterChef.Core.deps.json
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\MasterChef.Core\bin\Debug\net5.0\MasterChef.Core.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\MasterChef.Core\bin\Debug\net5.0\ref\MasterChef.Core.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\MasterChef.Core\bin\Debug\net5.0\MasterChef.Core.pdb
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\MasterChef.Core\obj\Debug\net5.0\MasterChef.Core.csproj.AssemblyReference.cache
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\MasterChef.Core\obj\Debug\net5.0\MasterChef.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\MasterChef.Core\obj\Debug\net5.0\MasterChef.Core.AssemblyInfoInputs.cache
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\MasterChef.Core\obj\Debug\net5.0\MasterChef.Core.AssemblyInfo.cs
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\MasterChef.Core\obj\Debug\net5.0\MasterChef.Core.csproj.CoreCompileInputs.cache
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\MasterChef.Core\obj\Debug\net5.0\MasterChef.Core.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\MasterChef.Core\obj\Debug\net5.0\ref\MasterChef.Core.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\MasterChef.Core\obj\Debug\net5.0\MasterChef.Core.pdb

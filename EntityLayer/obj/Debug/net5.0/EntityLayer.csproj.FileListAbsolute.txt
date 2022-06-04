@@ -1,0 +1,15 @@
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\inspi\OneDrive\Belgeler\GitHub\Projects\KendiCalişmalarım\MasterChef\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
