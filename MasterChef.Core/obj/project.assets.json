@@ -153,11 +153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\inspi\\OneDrive\\Belgeler\\GitHub\\Projects\\KendiCalişmalarım\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj",
+      "projectUniqueName": "C:\\Users\\inspi\\OneDrive\\Belgeler\\GitHub\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj",
       "projectName": "MasterChef.Core",
-      "projectPath": "C:\\Users\\inspi\\OneDrive\\Belgeler\\GitHub\\Projects\\KendiCalişmalarım\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj",
+      "projectPath": "C:\\Users\\inspi\\OneDrive\\Belgeler\\GitHub\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj",
       "packagesPath": "C:\\Users\\inspi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\inspi\\OneDrive\\Belgeler\\GitHub\\Projects\\KendiCalişmalarım\\MasterChef\\MasterChef.Core\\obj\\",
+      "outputPath": "C:\\Users\\inspi\\OneDrive\\Belgeler\\GitHub\\MasterChef\\MasterChef.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

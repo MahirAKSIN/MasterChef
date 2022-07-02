@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pPilzZHNgtmb+4jlR7Zbd73ccg4jqxTxPikXahXK2bK/HEpEC5Bd1+xuwfh4Xx9hoG9P89xW/mAPtVXQi8SW0A==",
+  "dgSpecHash": "mk3hM5mG4m7i0rEhflZAP04kIzyqX/186c+RVLVlq4XVM0CNIM3XwDGoLBelY6FdcIpKj4LoZbq8tCtgkP4Ocw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\inspi\\OneDrive\\Belgeler\\GitHub\\Projects\\KendiCalişmalarım\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj",
+  "projectFilePath": "C:\\Users\\inspi\\OneDrive\\Belgeler\\GitHub\\MasterChef\\MasterChef.Core\\MasterChef.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inspi\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\inspi\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wt+UMdwwYyyTIUIgoT+s7gzYLDoGDIjfXdBgMVLdOoaa0TSAT7VPb1TwChNHtwPkJr2KsWRvpEPryVSV5VL5EQ==",
+  "dgSpecHash": "TKNflyM9olJmjaolkGDg/0Ir8xfJIWskmRRgfJB3zV7MrSaH2IAhZ1g+F08aPtAR7lnm1VNQLyShkgVgxKY0Vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\inspi\\OneDrive\\Belgeler\\GitHub\\Projects\\KendiCalişmalarım\\MasterChef\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\inspi\\OneDrive\\Belgeler\\GitHub\\MasterChef\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inspi\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
     "C:\\Users\\inspi\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",

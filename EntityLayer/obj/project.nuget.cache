@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QROZs6cnFlcFF0MJUX6ge0cd6bpw6iO17nWpc+YMqR0WFWL2BXuXPUxxVY7yXMfhY1ZVCo/lfrbvKsYDpKYnxQ==",
+  "dgSpecHash": "1eXYcqwcJNWe3GqvPVPQ9Jq2kKeJmlOsRdHsgbnb1XCrGFk6NopIUnTpclsrAxC4X4NPcpT6hfiL7VtY/c5yfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\inspi\\OneDrive\\Belgeler\\GitHub\\Projects\\KendiCalişmalarım\\MasterChef\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\inspi\\OneDrive\\Belgeler\\GitHub\\MasterChef\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inspi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\inspi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

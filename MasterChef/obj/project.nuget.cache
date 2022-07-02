@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sZBEXbEeN5mOXKC+uYLDirEUpFF+lrebupclKnBIWTyqr75KrDiUzgs7CVw2p5bSdQIt0PqBh7r3rPh0oeAmlA==",
+  "dgSpecHash": "DJlVTvFR005F7Y+8TVmE+Kss7Z3nsdQkxSM4wUaI5o1nHBI4V/AWVOwk1R1h4/KMnFKH4XGkbk1q41PiHcFsGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\inspi\\OneDrive\\Belgeler\\GitHub\\Projects\\KendiCalişmalarım\\MasterChef\\MasterChef\\MasterChef.csproj",
+  "projectFilePath": "C:\\Users\\inspi\\OneDrive\\Belgeler\\GitHub\\MasterChef\\MasterChef\\MasterChef.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\inspi\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
     "C:\\Users\\inspi\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
